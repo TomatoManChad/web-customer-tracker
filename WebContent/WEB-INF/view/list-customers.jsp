@@ -5,7 +5,8 @@
 
 <head>
 <Title>List Customers</Title>
-
+<!-- reference to css style sheet -->
+<link type ="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/style.css" />
 </head>
 
 <body>
